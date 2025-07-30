@@ -386,7 +386,12 @@ code {
 }
 
 header, .context-menu, .megamenu-content, footer{
-    font-family: "Maple Mono Normal";
+    /* font-family: "Maple Mono Normal"; */
+    font-family: "Times New Roman", "Sim Sun";
+}
+
+#md-searchpanel {
+    font-family: "Maple Mono";
 }
 
 .file-node-content:hover .file-node-icon,
